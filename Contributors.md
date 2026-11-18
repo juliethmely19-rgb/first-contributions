@@ -7,6 +7,7 @@
 - Hello ! I am happy to make my first contribution 😭
 - contribution
 - [narongsakjaro](https://github.com/narongsakjaro) - Let's go
+- [Julieth Flores](https://github.com/juliethmely19-rgb)
 - [Khanh Khuat](https://github.com/khanhkhuat1504) - xin chao
 - [Ginger Keller](https://github.com/gingerkeller) - my first contribution
 - [Abraham Andres Valeriano Mamani](https://github.com/abrahanv60-bit) - Mi primera contribución en GitHub.
